@@ -1,5 +1,2 @@
-package Day1;
-
-public class Git1 {
-
+package Day1;public class Git1 {
 }
